@@ -7,19 +7,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9195096-91cc-4e98-807a-6d2edaae264d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d3334958-af79-43d0-95d8-b8231d7b4d69.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d3334958-af79-43d0-95d8-b8231d7b4d69.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/messages/app.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app_ru.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/messages/app_ru.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/topjava.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/topjava.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/db/populateDB.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/db/populateDB.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/javawebinar/topjava/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/javawebinar/topjava/model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/javawebinar/topjava/repository/datajpa/CrudUserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/javawebinar/topjava/repository/datajpa/CrudUserRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/javawebinar/topjava/repository/jpa/JpaUserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/javawebinar/topjava/repository/jpa/JpaUserRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/javawebinar/topjava/UserTestData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/javawebinar/topjava/UserTestData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/javawebinar/topjava/repository/jdbc/JdbcMealRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/javawebinar/topjava/repository/jdbc/JdbcMealRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/javawebinar/topjava/repository/jdbc/JdbcUserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/javawebinar/topjava/repository/jdbc/JdbcUserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/spring-db.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/spring-db.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-08-23T17-51-17_904-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.javawebinar.topjava.service.datajpa.DataJpaMealServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.javawebinar.topjava.service.datajpa.DataJpaMealServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.javawebinar.topjava.service.datajpa.DataJpaUserServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.javawebinar.topjava.service.datajpa.DataJpaUserServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.javawebinar.topjava.service.jdbc.JdbcMealServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.javawebinar.topjava.service.jdbc.JdbcMealServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.javawebinar.topjava.service.jdbc.JdbcUserServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.javawebinar.topjava.service.jdbc.JdbcUserServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.javawebinar.topjava.service.jpa.JpaMealServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.javawebinar.topjava.service.jpa.JpaMealServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.javawebinar.topjava.service.jpa.JpaUserServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.javawebinar.topjava.service.jpa.JpaUserServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.javawebinar.topjava.web.user.InMemoryAdminRestControllerSpringTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.javawebinar.topjava.web.user.InMemoryAdminRestControllerSpringTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.javawebinar.topjava.web.user.InMemoryAdminRestControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.javawebinar.topjava.web.user.InMemoryAdminRestControllerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ru.javawebinar.topjava.service.datajpa.DataJpaMealServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ru.javawebinar.topjava.service.datajpa.DataJpaMealServiceTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ru.javawebinar.topjava.service.datajpa.DataJpaUserServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ru.javawebinar.topjava.service.datajpa.DataJpaUserServiceTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ru.javawebinar.topjava.service.jdbc.JdbcMealServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ru.javawebinar.topjava.service.jdbc.JdbcMealServiceTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ru.javawebinar.topjava.service.jdbc.JdbcUserServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ru.javawebinar.topjava.service.jdbc.JdbcUserServiceTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ru.javawebinar.topjava.service.jpa.JpaMealServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ru.javawebinar.topjava.service.jpa.JpaMealServiceTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ru.javawebinar.topjava.service.jpa.JpaUserServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ru.javawebinar.topjava.service.jpa.JpaUserServiceTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ru.javawebinar.topjava.web.user.InMemoryAdminRestControllerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ru.javawebinar.topjava.web.user.InMemoryAdminRestControllerTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/ru/javawebinar/topjava/service/AbstractUserServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/javawebinar/topjava/service/AbstractUserServiceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/javawebinar/topjava/service/datajpa/DataJpaUserServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/javawebinar/topjava/service/datajpa/DataJpaUserServiceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/topjava/WEB-INF/classes/db/populateDB.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/topjava/WEB-INF/classes/db/populateDB.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/topjava/WEB-INF/classes/ru/javawebinar/topjava/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/topjava/WEB-INF/classes/ru/javawebinar/topjava/model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/topjava/WEB-INF/classes/ru/javawebinar/topjava/repository/datajpa/CrudUserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/topjava/WEB-INF/classes/ru/javawebinar/topjava/repository/datajpa/CrudUserRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/topjava/WEB-INF/classes/ru/javawebinar/topjava/repository/jpa/JpaUserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/topjava/WEB-INF/classes/ru/javawebinar/topjava/repository/jpa/JpaUserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/topjava.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/topjava.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/topjava/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/topjava/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/topjava/WEB-INF/classes/ru/javawebinar/topjava/repository/jdbc/JdbcMealRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/topjava/WEB-INF/classes/ru/javawebinar/topjava/repository/jdbc/JdbcMealRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/topjava/WEB-INF/classes/ru/javawebinar/topjava/repository/jdbc/JdbcUserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/topjava/WEB-INF/classes/ru/javawebinar/topjava/repository/jdbc/JdbcUserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/topjava/WEB-INF/classes/spring/spring-db.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/topjava/WEB-INF/classes/spring/spring-db.xml" afterDir="false" />
     </list>
     <list id="c3b9ff2d-ed6b-44b2-90e8-67ceece2b5cc" name="6 15 spring i18n" comment="" />
     <list id="e7367615-fefe-4ac8-aa29-2462d951327a" name="7 01 HW6 fix tests" comment="" />
@@ -27,6 +48,7 @@
     <list id="f7e58e18-f438-4099-8ed3-aa8c1665ebd9" name="7 03 HW6 fix relative url utf8" comment="" />
     <list id="5ca16d61-1bfb-4a3c-a2c8-dff92a7741e4" name="7 04 HW6 optional add role" comment="" />
     <list id="c01517e2-25a3-4024-b554-0ccef7b091bf" name="7 05 fix hint graph" comment="" />
+    <list id="6fdac6d1-c1e2-476b-9653-47ca577f1a45" name="7 06 HW6 optional jdbc" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +69,21 @@
     <expand>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="topjava" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="topjava" type="feb32156:DbDataSourceImpl" />
+        <item name="PUBLIC: database" type="5208c322:HsqlImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="topjava" type="feb32156:DbDataSourceImpl" />
+        <item name="PUBLIC: database" type="5208c322:HsqlImplModel$Database" />
+        <item name="PUBLIC: schema" type="d266ad14:HsqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="topjava@localhost" type="feb32156:DbDataSourceImpl" />
       </path>
       <path>
@@ -59,6 +96,30 @@
         <item name="topjava@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="topjava: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="topjava@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="topjava: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="topjava@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="topjava: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="topjava@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="topjava: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
     </expand>
     <select />
@@ -88,6 +149,13 @@
       </map>
     </option>
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Programming preparation\Online Internship\TopJava17\Manual Install\HW6 вик\patches\topjava\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -101,6 +169,11 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="postgres" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1PhUrxlPjbr6L8d5rDVHmBw0yoS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -108,6 +181,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="postgresql&#10;hsqldb" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -117,14 +191,17 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="project.structure.side.proportion" value="0.28275862" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="ru.javawebinar.topjava.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programming preparation\Online Internship\TopJava17\Manual Install\HW6\patches\topjava\config\messages" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="ru.javawebinar.topjava.repository" />
@@ -330,6 +407,7 @@
       <changelist id="f7e58e18-f438-4099-8ed3-aa8c1665ebd9" name="7 03 HW6 fix relative url utf8" comment="" />
       <changelist id="5ca16d61-1bfb-4a3c-a2c8-dff92a7741e4" name="7 04 HW6 optional add role" comment="" />
       <changelist id="c01517e2-25a3-4024-b554-0ccef7b091bf" name="7 05 fix hint graph" comment="" />
+      <changelist id="6fdac6d1-c1e2-476b-9653-47ca577f1a45" name="7 06 HW6 optional jdbc" comment="" />
       <created>1565165896915</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -365,7 +443,12 @@
       <workItem from="1566552440454" duration="6479000" />
       <workItem from="1566571046881" duration="884000" />
       <workItem from="1566572082181" duration="2652000" />
-      <workItem from="1566581085547" duration="1183000" />
+      <workItem from="1566581085547" duration="2577000" />
+      <workItem from="1566584825444" duration="1414000" />
+      <workItem from="1566814288926" duration="490000" />
+      <workItem from="1570867956796" duration="1244000" />
+      <workItem from="1570869355309" duration="532000" />
+      <workItem from="1570871709040" duration="3471000" />
     </task>
     <task id="LOCAL-00001" summary="1_3_HW0">
       <created>1565967482283</created>
@@ -418,15 +501,6 @@
     </task>
     <option name="localTasksCounter" value="8" />
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
